@@ -1,0 +1,82 @@
+body {
+    font-family: "Roboto" sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.title {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.btn {
+    background-color:#4D5AE5;
+    color: #FFFFFF;  
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.team {
+    background-color:#F4F4FD ;
+}
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.logo {
+    color:#F4F4FD ;
+}
+
+h2 {
+font-size: 36px;
+font-weight: 700;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nav {
+    color:#2E2F42 ;
+}
+
+.address-link,.nav,.logo {
+    text-decoration: none;
+}
+
+
+.link {
+    color:#434455 ;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.nav .link:hover,
+ .nav .link:focus {
+color: #4D5AE5;
+}
+
+.address-link .link:hover,
+.address-link .link:focus {
+    color: #4D5AE5;
+}
+
+.btn:hover,
+.btn:focus {
+ color: #000000;
+}
+
+.logo:hover, 
+.logo:focus {
+    color: #4D5AE5;
+}
