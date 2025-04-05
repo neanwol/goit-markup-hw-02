@@ -66,7 +66,7 @@ body {
 }
 
 .logo-accent {
-    color: #f4f4fd;
+    color: #2E2F42;
 }
 
 h2 {
@@ -103,10 +103,11 @@ color: #434455;
 
 
 .link {
-    color:#434455 ;
+    color:#2e2f42 ;
     text-decoration: none;
     font-style: normal;
     letter-spacing: 0.02em;
+    font-weight: 500;
 }
 
 .nav .link:hover,
@@ -116,7 +117,7 @@ color: #4D5AE5;
 
 .address-link .link:hover,
 .address-link .link:focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 
 .btn:hover,
