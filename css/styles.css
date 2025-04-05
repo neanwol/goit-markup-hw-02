@@ -14,11 +14,24 @@ body {
 .title {
     background-color: #2E2F42;
     color: #FFFFFF;
+    text-align: center;
+}
+
+.title-one {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    text-align: center;
+    letter-spacing: 0.02em
+}
+
+.title-two {
+    color: #2E2F42;
+}
+.desc{
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .btn {
@@ -33,9 +46,10 @@ body {
 }
 
 .team {
-    background-color:#F4F4FD ;
+    background-color:#FFFFFF ;
 }
-footer {
+
+.footer {
     background-color: #2E2F42;
     color: #F4F4FD;
 }
@@ -52,7 +66,7 @@ footer {
 }
 
 .logo-accent {
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 h2 {
@@ -121,4 +135,8 @@ address {
 
 .link:hover,.link:focus {
     color: #404BBF;
+}
+
+.text {
+    color: #F4F4FD;
 }
