@@ -92,6 +92,7 @@ color: #434455;
     color:#434455 ;
     text-decoration: none;
     font-style: normal;
+    letter-spacing: 0.02em;
 }
 
 .nav .link:hover,
@@ -112,4 +113,12 @@ color: #4D5AE5;
 .logo:hover, 
 .logo:focus {
     color: #4D5AE5;
+}
+
+address {
+    font-style: normal;
+}
+
+.link:hover,.link:focus {
+    color: #404BBF;
 }
