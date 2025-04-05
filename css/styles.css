@@ -46,7 +46,7 @@ body {
 }
 
 .team {
-    background-color:#FFFFFF ;
+    background-color:#f4f4fd ;
 }
 
 .footer {
@@ -139,4 +139,8 @@ address {
 
 .text {
     color: #F4F4FD;
+}
+
+.item {
+    background-color: #FFFFFF;
 }
